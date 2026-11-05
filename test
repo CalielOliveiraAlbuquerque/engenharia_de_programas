@@ -1,0 +1,15 @@
+#!/usr/bin/bash
+
+if [[ $# -eq 0 ]]; then
+  versions=(main.py )
+else
+  versions=("$1")
+fi
+
+for version in "${versions[@]}"; do
+  for img in images/*; do
+    name="$(basename "${img%.*}")"
+    mkdir -p "resultados/$name"
+    uv run "$version" "$img" "n" | tee "resultados/$name/results_$version.txt" 
+  done
+done

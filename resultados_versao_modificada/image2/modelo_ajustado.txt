@@ -1,0 +1,7 @@
+Imagem: image2.jpg
+Modelo: T(n, K) = alpha*(n*K) + beta*n + gamma*K + delta
+alpha = 3.064037e-05
+beta  = -3.538803e-05
+gamma = 4.710086e-02
+delta = -1.500410e-01
+R2    = 0.949639

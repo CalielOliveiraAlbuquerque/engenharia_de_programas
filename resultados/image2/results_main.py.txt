@@ -1,0 +1,820 @@
+--- INICIANDO PROCESSAMENTO DE BANCADA ---
+Versão: normal
+Figura de Entrada: /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/images/image2.jpg
+Clusters (K): 4
+-> Convergiu na iteração 18!
+
+[SUCESSO] Processamento finalizado com folga!
+Tempo Total de Execução (Bancada): 0.8882 segundos
+   [salvo] imagens original e segmentada em: /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_normal/image2
+
+--- INICIANDO EXPERIMENTO F.O.C.A. ---
+Imagem: image2.jpg | escalas: 25%, 50%, 75%, 100%
+
+Escala 25% -> 22x34 (n=748)
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+
+Escala 50% -> 45x68 (n=3060)
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+
+Escala 75% -> 68x103 (n=7004)
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+
+Escala 100% -> 90x137 (n=12330)
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+
+Salvando resultados em: /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_normal/image2
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_normal/image2/dados_brutos.csv
+
+--- Tabela de Validação Estatística (F.O.C.A.) ---
+    n  k  escala  tempo_medio   desvio  contagem_valida       CV  estavel_CV_menor_15
+  748  2    0.25     0.010816 0.000189               26 0.017472                 True
+  748  3    0.25     0.018952 0.000318               26 0.016762                 True
+  748  4    0.25     0.034908 0.000465               26 0.013314                 True
+ 3060  2    0.50     0.049932 0.004793               26 0.096000                 True
+ 3060  3    0.50     0.126136 0.007982               26 0.063278                 True
+ 3060  4    0.50     0.354958 0.011320               26 0.031890                 True
+ 7004  2    0.75     0.027740 0.007265               26 0.261899                False
+ 7004  3    0.75     0.185900 0.011429               26 0.061478                 True
+ 7004  4    0.75     0.512928 0.013536               26 0.026390                 True
+12330  2    1.00     0.244285 0.012794               26 0.052375                 True
+12330  3    1.00     0.649616 0.005883               26 0.009056                 True
+12330  4    1.00     0.923303 0.017958               26 0.019450                 True
+
+--- Modelo ajustado: T = a*(n*K) + b*n + c*K + d ---
+a=2.647e-05  b=-3.184e-05  c=3.354e-02  d=-1.142e-01  |  R²=0.9508
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_normal/image2/modelo_ajustado.txt
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_normal/image2/resultados_foca_aluno.csv
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_normal/image2/tabela_validacao_foca.png
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_normal/image2/grafico_2d_tempo_vs_n.png
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_normal/image2/grafico_2d_tempo_vs_k.png
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_normal/image2/relatorio_complexidade.png
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_normal/image2/superficie_tempo_3d.png
+
+Experimento concluído. Todos os arquivos estão em: /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_normal/image2
+--- INICIANDO PROCESSAMENTO DE BANCADA ---
+Versão: modificada
+Figura de Entrada: /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/images/image2.jpg
+Clusters (K): 4
+-> Convergiu na iteração 18!
+
+[SUCESSO] Processamento finalizado com folga!
+Tempo Total de Execução (Bancada): 1.1011 segundos
+   [salvo] imagens original e segmentada em: /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_modificada/image2
+
+--- INICIANDO EXPERIMENTO F.O.C.A. ---
+Imagem: image2.jpg | escalas: 25%, 50%, 75%, 100%
+
+Escala 25% -> 22x34 (n=748)
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 8!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+-> Convergiu na iteração 12!
+
+Escala 50% -> 45x68 (n=3060)
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 15!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+-> Convergiu na iteração 30!
+
+Escala 75% -> 68x103 (n=7004)
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 1!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 9!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+
+Escala 100% -> 90x137 (n=12330)
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 10!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+-> Convergiu na iteração 18!
+
+Salvando resultados em: /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_modificada/image2
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_modificada/image2/dados_brutos.csv
+
+--- Tabela de Validação Estatística (F.O.C.A.) ---
+    n  k  escala  tempo_medio   desvio  contagem_valida       CV  estavel_CV_menor_15
+  748  2    0.25     0.013708 0.000341               26 0.024901                 True
+  748  3    0.25     0.023603 0.000582               26 0.024679                 True
+  748  4    0.25     0.042356 0.000707               26 0.016695                 True
+ 3060  2    0.50     0.064283 0.005440               26 0.084619                 True
+ 3060  3    0.50     0.163699 0.008967               26 0.054777                 True
+ 3060  4    0.50     0.436146 0.015971               26 0.036618                 True
+ 7004  2    0.75     0.034509 0.007523               26 0.217989                False
+ 7004  3    0.75     0.231237 0.011979               26 0.051805                 True
+ 7004  4    0.75     0.643260 0.038744               26 0.060230                 True
+12330  2    1.00     0.301087 0.011652               26 0.038700                 True
+12330  3    1.00     0.779326 0.005630               26 0.007224                 True
+12330  4    1.00     1.086790 0.006371               26 0.005862                 True
+
+--- Modelo ajustado: T = a*(n*K) + b*n + c*K + d ---
+a=3.064e-05  b=-3.539e-05  c=4.710e-02  d=-1.500e-01  |  R²=0.9496
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_modificada/image2/modelo_ajustado.txt
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_modificada/image2/resultados_foca_aluno.csv
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_modificada/image2/tabela_validacao_foca.png
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_modificada/image2/grafico_2d_tempo_vs_n.png
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_modificada/image2/grafico_2d_tempo_vs_k.png
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_modificada/image2/relatorio_complexidade.png
+   [salvo] /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_modificada/image2/superficie_tempo_3d.png
+
+Experimento concluído. Todos os arquivos estão em: /home/caliel/programming/projetos/faculdade/engenharia_de_programas/nova_atividade/resultados_versao_modificada/image2
